@@ -16,7 +16,5 @@
 
 ### screenshots 
 
-![screenshots]()
+![screenshots](https://github.com/nitishsaini706/references-images/blob/main/decentragram/image.png)
 
-![screenshots]()
-![scrneeshot]()
